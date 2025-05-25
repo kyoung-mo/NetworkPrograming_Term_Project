@@ -1,0 +1,5 @@
+﻿  module1.cpp
+C:\Users\kym11\source\repos\Term_1\Term_1\module1.cpp(26,9): error C3861: 'DisplayText': 식별자를 찾을 수 없습니다.
+C:\Users\kym11\source\repos\Term_1\Term_1\module1.cpp(41,9): error C3861: 'DisplayError': 식별자를 찾을 수 없습니다.
+C:\Users\kym11\source\repos\Term_1\Term_1\module1.cpp(45,5): error C3861: 'DisplayText': 식별자를 찾을 수 없습니다.
+C:\Users\kym11\source\repos\Term_1\Term_1\module1.cpp(61,5): error C3861: 'DisplayText': 식별자를 찾을 수 없습니다.
