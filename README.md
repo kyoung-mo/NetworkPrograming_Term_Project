@@ -9,20 +9,35 @@
 
 ## 📁 디렉토리 구조
 ├── Client/
+
 │ ├── Client_main.cpp # 클라이언트 진입점
+
 │ ├── TCPClient_FixedVariable.cpp
+
 │ ├── TCPClient_Variable.cpp
+
 │ ├── UDPClient.cpp
+
 │ └── resource.h
+
 ├── Server/
+
 │ ├── GUITCPServer.cpp # GUI 기반 TCP 서버
+
 │ ├── TCPServer_FixedVariable.cpp
+
 │ ├── TCPServer_Variable.cpp
+
 │ ├── NonblockTCPServer.cpp
+
 │ ├── SelectTCPServer.cpp
+
 │ ├── UDPServer.cpp
+
 │ └── DlgApp.cpp
+
 ├── Common/
+
 │ └── Common.h # 공통 유틸 및 윈속 초기화
 
 
